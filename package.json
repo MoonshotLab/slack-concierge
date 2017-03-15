@@ -1,0 +1,29 @@
+{
+  "name": "slack-concierge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonshotLab/slack-concierge.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "6.9.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonshotLab/slack-concierge/issues"
+  },
+  "homepage": "https://github.com/MoonshotLab/slack-concierge#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fs": "0.0.1-security",
+    "slackin": "^0.13.0"
+  }
+}
